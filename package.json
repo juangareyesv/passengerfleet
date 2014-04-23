@@ -1,8 +1,8 @@
 {
-    "name": "mapa-tiempo-real",
+    "name": "passengerfleet",
     "description": "Demo de mapa en tiempo real usando Node Js, Expres Js, Socket IO y Leaflet Js",
     "version": "0.0.1",
-    "author": "David Inga",
+    "author": "Juan Reyes",
     "scripts": {
         "start": "node app"
     },
