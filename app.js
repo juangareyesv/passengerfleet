@@ -24,7 +24,6 @@ app.configure(function() {
 // Routing
 app.get('/', function(req, res) {
     res.render('index', {
-    'title': 'Mapa en tiempo real',
     'users': users
     });
 });
